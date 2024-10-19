@@ -1,3 +1,6 @@
+#OpenIbex-Specific
+data/*
+
 # Logs
 logs
 *.log
