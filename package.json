@@ -1,6 +1,6 @@
 {
   "name": "openibex-boilerplate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A boilerplate project with wallets and configs to start using openibex-packages",
   "main": "index.js",
   "repository": "git@github.com:tbergmueller/openibex-boilerplate.git",
@@ -8,6 +8,6 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@openibex/cli": "^0.0.4"
+    "@openibex/cli": "^0.1.1"
   }
 }
